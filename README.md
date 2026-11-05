@@ -1,18 +1,24 @@
-# Olá, sou o Nicolas Lacerda 🎈
+<img src="./assets/abertura.png" width="100%" alt="Olá, eu sou o Nicolas. Ideias que ganham vida na web. Trabalho com sistemas e dados no turismo. Aqui compartilho o que construo e o que aprendo programando.">
 
-Trabalho com suporte a sistemas e bancos de dados no setor de turismo e estudo Sistemas de Informação na FMU. Gosto da parte investigativa do suporte. Quando alguém relata um erro, uso consultas SQL, logs e chamadas de API para entender o que aconteceu entre a tela do usuário e o banco de dados.
+## Projetos para explorar
 
-Quero crescer como programador e construir ferramentas que eu teria gostado de utilizar no meu dia à dia. Aqui compartilho o que já coloquei no ar e os exercícios que me ajudam a escrever código melhor.
+<a href="https://nicolaslacerda.com/"><img src="./assets/portfolio.png" width="100%" alt="Meu portfólio pessoal em HTML, CSS e JavaScript. Conheça meus projetos e minha trajetória."></a>
 
-## Projetos e estudos
+<a href="https://github.com/NicolasLacerdaF/MyJava"><img src="./assets/myjava.png" width="49%" alt="MyJava. Do primeiro cálculo a um carrinho de compras em Java."></a>
+<a href="https://github.com/NicolasLacerdaF/api-clientes-exemplo-microservico"><img src="./assets/api-clientes.png" width="49%" alt="API de clientes. Estudo de Kotlin e testes com o material de Vinicius Pessoni."></a>
 
-- **[Portfólio pessoal](https://nicolaslacerda.com/)** — Site que construí com HTML, CSS e JavaScript para reunir meus projetos e minha trajetória. Um script em Node.js monta as páginas a partir de um modelo comum.
-- **[MyJava](https://github.com/NicolasLacerdaF/MyJava)** — Meu caderno de prática em Java. Há exercícios de entrada de dados, condições e cálculos, além de um exemplo de carrinho de compras e um guia de formatação com `printf`.
-- **[API de clientes](https://github.com/NicolasLacerdaF/api-clientes-exemplo-microservico)** — Projeto de estudo a partir do material de Vinicius Pessoni. O repositório reúne uma API em Kotlin e testes automatizados para explorar como as regras de um cliente aparecem no código.
+## Ferramentas do meu dia a dia
 
-## Habilidades que uso no trabalho
+**SQL / PL/SQL** &nbsp; <img src="./assets/mongodb.svg" width="20" height="20" alt=""> MongoDB &nbsp; <img src="./assets/postman.svg" width="20" height="20" alt=""> Postman &nbsp; <img src="./assets/jira.svg" width="20" height="20" alt=""> Jira &nbsp; <img src="./assets/javascript.svg" width="20" height="20" alt=""> JavaScript &nbsp; <img src="./assets/html5.svg" width="20" height="20" alt=""> HTML &nbsp; <img src="./assets/css3.svg" width="20" height="20" alt=""> CSS
+
+<details>
+<summary>Um pouco da minha experiência</summary>
+
+undefined
 
 - **Dados e integrações.** Faço consultas e ajustes com SQL e PL/SQL. Uso MongoDB, analiso logs em JSON e XML e verifico requisições de API com o Postman.
 - **Suporte e incidentes.** Tenho experiência com Jira e com o acompanhamento de chamados entre os níveis N1, N2 e N3. Na ÚnicoPag, liderei 2 pessoas no atendimento ao cliente e encaminhei incidentes sistêmicos às equipes responsáveis.
 
-Se quiser conversar sobre um projeto, trocar experiências em programação ou falar sobre uma oportunidade, me encontre no [LinkedIn](https://www.linkedin.com/in/nicolas-lacerda-0b95371b2/).
+</details>
+
+[Minha trajetória ↗](https://nicolaslacerda.com/trajetoria) · [LinkedIn ↗](https://www.linkedin.com/in/nicolas-lacerda-0b95371b2/)

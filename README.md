@@ -7,7 +7,7 @@
 <a href="https://nicolaslacerdaf.github.io/"><img src="./assets/github-lab.gif" width="100%" alt="Abrir o GitHub Lab de Nicolas Lacerda. Projetos, habilidades e trajetória."></a>
 
 <a href="https://github.com/NicolasLacerdaF/MyJava"><img src="./assets/myjava.png" width="49%" alt="MyJava. Do primeiro cálculo a um carrinho de compras em Java."></a>
-<a href="https://github.com/NicolasLacerdaF/api-clientes-exemplo-microservico"><img src="./assets/api-clientes.png" width="49%" alt="API de clientes. Estudo de Kotlin e testes com o material de Vinicius Pessoni."></a>
+<a href="https://github.com/NicolasLacerdaF/api-clientes-exemplo-microservico"><img src="./assets/api-clientes.png" width="49%" alt="API de clientes. Estudo de Kotlin e testes com o material em Postman disponível."></a>
 
 ## Ferramentas do meu dia a dia
 

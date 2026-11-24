@@ -7,7 +7,6 @@
 <a href="https://nicolaslacerdaf.github.io/"><img src="./assets/github-lab.gif" width="100%" alt="Abrir o GitHub Lab de Nicolas Lacerda. Projetos, habilidades e trajetória."></a>
 
 <a href="https://github.com/NicolasLacerdaF/MyJava"><img src="./assets/myjava.png" width="49%" alt="MyJava. Do primeiro cálculo a um carrinho de compras em Java."></a>
-<a href="https://github.com/NicolasLacerdaF/api-clientes-exemplo-microservico"><img src="./assets/api-clientes.png" width="49%" alt="API de clientes. Estudo de Kotlin e testes com o material em Postman disponível."></a>
 
 ## Ferramentas do meu dia a dia
 
@@ -15,8 +14,6 @@
 
 <details>
 <summary>Um pouco da minha experiência</summary>
-
-undefined
 
 - **Dados e integrações.** Faço consultas e ajustes com SQL e PL/SQL. Uso MongoDB, analiso logs em JSON e XML e verifico requisições de API com o Postman.
 - **Suporte e incidentes.** Tenho experiência com Jira e com o acompanhamento de chamados entre os níveis N1, N2 e N3. Na ÚnicoPag, liderei 2 pessoas no atendimento ao cliente e encaminhei incidentes sistêmicos às equipes responsáveis.
